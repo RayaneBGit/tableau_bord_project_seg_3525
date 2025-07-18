@@ -1,9 +1,11 @@
+import Accueil from './Accueil';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <p>hello test</p>
+      <Accueil/>
     </div>
   );
 }

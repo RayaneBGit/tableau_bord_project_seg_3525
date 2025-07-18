@@ -1,0 +1,182 @@
+﻿"Indice des prix à la consommation, données mensuelles, variation en pourcentage, non désaisonnalisées, Canada, provinces, Whitehorse et Yellowknife — Aliments 1 2 3"
+"Fréquence : Mensuelle"
+"Tableau : 18-10-0004-03"
+"Date de diffusion : 2025-07-15"
+"Géographie : Canada, Province ou territoire, Subdivision de recensement, Région métropolitaine de recensement, Partie de région métropolitaine de recensement"
+""
+""
+
+"Géographie";"Canada";;;;
+"Produits et groupes de produits 3 4";"juin 2024";"mai 2025";"juin 2025";"mai 2025 à juin 2025";"juin 2024 à juin 2025"
+;"2002=100";;;"Variation en pourcentage";
+"Aliments 5";"190,0";"195,4";"195,6";"0,1";"2,9"
+"Aliments achetés en magasin";"187,5";"192,7";"192,8";"0,1";"2,8"
+"Viande";"211,3";"221,2";"221,5";"0,1";"4,8"
+"Viande fraîche ou surgelée (excluant la volaille)";"228,0";"244,4";"245,5";"0,5";"7,7"
+"Bœuf frais ou surgelé";"260,3";"285,4";"285,2";"-0,1";"9,6"
+;"202404=100";;;"Variation en pourcentage";
+"Cuisses de bœuf fraîches ou surgelées (202404=100)";"103,8";"111,8";"105,1";"-6,0";"1,3"
+"Longes de bœuf fraîches ou surgelées (202404=100)";"109,3";"114,0";"120,7";"5,9";"10,4"
+"Côtes de bœuf fraîches ou surgelées (202404=100)";"108,3";"118,1";"120,6";"2,1";"11,4"
+"Basses côtes de bœuf fraîches ou surgelées (202404=100)";"99,1";"102,7";"106,7";"3,9";"7,7"
+"Bœuf à bouillir frais (202404=100)";"100,3";"109,4";"104,5";"-4,5";"4,2"
+"Bœuf haché frais ou surgelé (202404=100)";"109,0";"124,3";"122,5";"-1,4";"12,4"
+"Autre bœuf frais ou surgelé (202404=100)";"106,9";"116,6";"116,6";"0,0";"9,1"
+;"2002=100";;;"Variation en pourcentage";
+"Porc frais ou surgelé";"169,2";"171,8";"176,9";"3,0";"4,6"
+;"202404=100";;;"Variation en pourcentage";
+"Longes de porc fraîches ou surgelées (202404=100)";"103,4";"104,8";"108,0";"3,1";"4,4"
+"Épaules de porc fraîches ou surgelées (202404=100)";"108,5";"105,5";"105,4";"-0,1";"-2,9"
+"Autre porc frais ou surgelé (202404=100)";"100,1";"102,8";"106,4";"3,5";"6,3"
+;"2002=100";;;"Variation en pourcentage";
+"Autres viandes fraîches ou surgelées (excluant la volaille)";"191,4";"200,4";"194,1";"-3,1";"1,4"
+"Volaille fraîche ou surgelée";"204,6";"211,1";"207,5";"-1,7";"1,4"
+"Poulet frais ou surgelé";"212,6";"220,3";"214,8";"-2,5";"1,0"
+;"202404=100";;;"Variation en pourcentage";
+"Poitrines de poulet fraîches ou surgelées (202404=100)";"97,7";"103,2";"99,2";"-3,9";"1,5"
+"Cuisses de poulet fraîches ou surgelées (202404=100)";"99,2";"97,5";"96,4";"-1,1";"-2,8"
+"Pilons de poulet frais ou surgelés (202404=100)";"95,6";"99,1";"97,0";"-2,1";"1,5"
+"Poulet entier frais ou surgelé (202404=100)";"99,6";"102,2";"106,9";"4,6";"7,3"
+"Autre poulet frais ou surgelé (202404=100)";"98,0";"101,2";"98,7";"-2,5";"0,7"
+;"2002=100";;;"Variation en pourcentage";
+"Autres volailles fraîches ou surgelées";"159,0";"160,7";"164,8";"2,6";"3,6"
+"Viande transformée";"194,4";"200,0";"202,2";"1,1";"4,0"
+"Jambon et bacon";"183,0";"189,1";"192,5";"1,8";"5,2"
+;"2013=100";;;"Variation en pourcentage";
+"Bacon (2013=100)";"157,3";"167,0";"168,6";"1,0";"7,2"
+"Jambon excluant le jambon de charcuterie (2013=100)";"166,6";"156,9";"165,0";"5,2";"-1,0"
+;"2002=100";;;"Variation en pourcentage";
+"Autres viandes transformées";"203,2";"209,0";"211,1";"1,0";"3,9"
+"Poisson, fruits de mer et autres produits de la mer";"161,0";"166,1";"167,9";"1,1";"4,3"
+"Poisson";"181,0";"184,6";"186,2";"0,9";"2,9"
+"Poisson frais ou surgelé (y compris les portions et les bâtonnets)";"178,7";"179,9";"181,4";"0,8";"1,5"
+"Poisson en conserve et autrement préservé";"182,7";"192,9";"194,7";"0,9";"6,6"
+;"2013=100";;;"Variation en pourcentage";
+"Saumon en conserve (2013=100)";"161,2";"174,8";"177,4";"1,5";"10,0"
+"Thon en conserve (2013=100)";"128,4";"132,6";"133,9";"1,0";"4,3"
+;"2002=100";;;"Variation en pourcentage";
+"Fruits de mer et autres produits de la mer";"117,1";"125,0";"126,9";"1,5";"8,4"
+;"2013=100";;;"Variation en pourcentage";
+"Crevettes (2013=100)";"127,4";"130,4";"132,6";"1,7";"4,1"
+"Autres mollusques et crustacés (2013=100)";"112,1";"125,1";"126,6";"1,2";"12,9"
+;"2002=100";;;"Variation en pourcentage";
+"Produits laitiers et oeufs";"173,7";"176,3";"177,0";"0,4";"1,9"
+"Produits laitiers";"169,4";"171,5";"172,2";"0,4";"1,7"
+"Lait frais";"177,5";"181,1";"181,5";"0,2";"2,3"
+;"2013=100";;;"Variation en pourcentage";
+"Lait entier (2013=100)";"129,3";"131,2";"131,3";"0,1";"1,5"
+"Lait faible en matières grasses (2013=100)";"128,9";"130,8";"130,9";"0,1";"1,6"
+;"2002=100";;;"Variation en pourcentage";
+"Beurre";"203,8";"198,5";"203,7";"2,6";"-0,0"
+"Fromage";"158,3";"157,7";"157,5";"-0,1";"-0,5"
+;"2013=100";;;"Variation en pourcentage";
+"Fromage cheddar (2013=100)";"111,5";"109,5";"110,0";"0,5";"-1,3"
+"Fromage fondu (2013=100)";"122,1";"122,2";"121,9";"-0,2";"-0,2"
+"Fromage non affiné ou fromage frais (2013=100)";"147,1";"146,8";"146,4";"-0,3";"-0,5"
+"Fromage mozzarella (2013=100)";"112,7";"112,3";"111,7";"-0,5";"-0,9"
+;"2002=100";;;"Variation en pourcentage";
+"Crème glacée et produits connexes";"146,5";"148,3";"149,8";"1,0";"2,3"
+"Autres produits laitiers";"174,6";"181,2";"182,0";"0,4";"4,2"
+"Oeufs";"221,2";"229,1";"229,4";"0,1";"3,7"
+"Produits de boulangerie et produits céréaliers (excluant les aliments pour bébés)";"198,2";"199,0";"198,0";"-0,5";"-0,1"
+"Produits de boulangerie";"209,1";"211,1";"209,8";"-0,6";"0,3"
+"Pain et petits pains";"219,2";"219,7";"216,5";"-1,5";"-1,2"
+"Biscuits et craquelins";"189,7";"197,5";"200,8";"1,7";"5,9"
+"Autres produits de boulangerie";"199,7";"199,3";"196,6";"-1,4";"-1,6"
+"Produits céréaliers (excluant les aliments pour bébés)";"177,8";"176,9";"176,5";"-0,2";"-0,7"
+"Riz et mélanges à base de riz";"180,9";"182,6";"183,2";"0,3";"1,3"
+"Céréales pour petit déjeuner et autres produits céréaliers (excluant les aliments pour bébés)";"159,8";"159,8";"157,2";"-1,6";"-1,6"
+"Pâtes alimentaires";"213,6";"213,9";"219,3";"2,5";"2,7"
+;"2013=100";;;"Variation en pourcentage";
+"Pâtes alimentaires sèches ou fraîches (2013=100)";"140,4";"133,2";"139,3";"4,6";"-0,8"
+"Mélanges à base de pâtes alimentaires (2013=100)";"155,2";"174,3";"172,0";"-1,3";"10,8"
+;"2002=100";;;"Variation en pourcentage";
+"Farine et mélanges à base de farine";"195,6";"181,8";"185,8";"2,2";"-5,0"
+"Fruits, préparations à base de fruits et noix";"171,0";"177,1";"177,4";"0,2";"3,7"
+"Fruits frais";"163,5";"167,4";"166,9";"-0,3";"2,1"
+"Pommes";"212,8";"218,6";"215,5";"-1,4";"1,3"
+"Oranges";"180,1";"202,1";"212,2";"5,0";"17,8"
+"Bananes";"137,3";"140,5";"140,3";"-0,1";"2,2"
+;"202304=100";;;"Variation en pourcentage";
+"Agrumes (excluant les oranges) (202304=100)";"101,4";"99,8";"100,8";"1,0";"-0,6"
+"Raisins (202304=100)";"130,6";"131,7";"143,4";"8,9";"9,8"
+"Baies (y compris les cerises) (202304=100)";"78,8";"81,2";"73,9";"-9,0";"-6,2"
+;"2002=100";;;"Variation en pourcentage";
+"Autres fruits frais 6";"170,0";"170,4";"170,5";"0,1";"0,3"
+"Fruits en conserve et préparations à base de fruits";"183,8";"191,7";"193,3";"0,8";"5,2"
+"Jus de fruits";"195,9";"208,7";"210,6";"0,9";"7,5"
+"Autres fruits en conserve et préparations à base de fruits";"163,6";"165,8";"166,8";"0,6";"2,0"
+;"2013=100";;;"Variation en pourcentage";
+"Fruits en conserve (2013=100)";"154,9";"147,7";"150,3";"1,8";"-3,0"
+"Confiture, gelée et autres conserves (2013=100)";"152,6";"155,5";"156,6";"0,7";"2,6"
+"Fruits secs et déshydratés (2013=100)";"151,4";"163,4";"164,5";"0,7";"8,7"
+"Fruits surgelés (2013=100)";"103,5";"104,8";"104,2";"-0,6";"0,7"
+;"2002=100";;;"Variation en pourcentage";
+"Noix et graines";"177,7";"193,9";"196,3";"1,2";"10,5"
+"Légumes et préparations à base de légumes";"190,2";"193,4";"186,6";"-3,5";"-1,9"
+"Légumes frais";"189,8";"192,5";"184,0";"-4,4";"-3,1"
+"Pommes de terre";"162,3";"163,5";"161,0";"-1,5";"-0,8"
+"Tomates";"132,6";"139,3";"130,5";"-6,3";"-1,6"
+"Laitue";"202,8";"205,6";"195,6";"-4,9";"-3,6"
+;"202304=100";;;"Variation en pourcentage";
+"Carottes (202304=100)";"121,2";"122,2";"124,0";"1,5";"2,3"
+"Oignons (202304=100)";"144,5";"131,1";"129,6";"-1,1";"-10,3"
+"Poivrons (202304=100)";"91,3";"100,0";"95,8";"-4,2";"4,9"
+"Concombre (202304=100)";"94,7";"85,0";"77,4";"-8,9";"-18,3"
+"Champignons (202304=100)";"97,9";"99,5";"95,9";"-3,6";"-2,0"
+;"2002=100";;;"Variation en pourcentage";
+"Autres légumes frais 7";"215,7";"227,8";"214,4";"-5,9";"-0,6"
+"Légumes en conserve et préparations à base de légumes";"191,7";"196,8";"194,7";"-1,1";"1,6"
+"Légumes surgelés et séchés";"202,4";"205,2";"199,7";"-2,7";"-1,3"
+"Légumes en conserve et autres préparations à base de légumes";"189,1";"195,0";"195,0";"0,0";"3,1"
+"Autres produits alimentaires et boissons non alcoolisées";"178,5";"184,9";"187,5";"1,4";"5,0"
+"Sucre et confiseries";"177,9";"188,5";"187,3";"-0,6";"5,3"
+"Sucre et sirop";"153,0";"155,7";"153,5";"-1,4";"0,3"
+"Confiseries";"183,4";"196,3";"195,2";"-0,6";"6,4"
+"Graisses et huiles comestibles";"263,1";"245,1";"237,2";"-3,2";"-9,8"
+"Margarine";"251,5";"251,2";"250,2";"-0,4";"-0,5"
+"Autres graisses et huiles comestibles";"250,1";"229,0";"218,8";"-4,5";"-12,5"
+"Café et thé";"163,1";"182,0";"194,7";"7,0";"19,4"
+"Café";"164,8";"187,7";"203,1";"8,2";"23,2"
+;"2013=100";;;"Variation en pourcentage";
+"Café torréfié ou moulu (2013=100)";"122,1";"146,3";"160,4";"9,6";"31,4"
+"Café soluble et autres cafés (2013=100)";"110,7";"118,3";"126,0";"6,5";"13,8"
+;"2002=100";;;"Variation en pourcentage";
+"Thé";"158,8";"162,3";"162,9";"0,4";"2,6"
+"Condiments, épices et vinaigres";"163,8";"167,0";"166,6";"-0,2";"1,7"
+"Autres préparations alimentaires";"184,1";"190,6";"193,3";"1,4";"5,0"
+"Soupe";"193,8";"192,6";"209,3";"8,7";"8,0"
+"Aliments pour bébés";"172,9";"178,1";"179,5";"0,8";"3,8"
+;"2013=100";;;"Variation en pourcentage";
+"Aliments en conserve pour bébés (2013=100)";"136,0";"130,3";"131,3";"0,8";"-3,5"
+"Préparation pour nourrissons (2013=100)";"134,6";"146,5";"147,7";"0,8";"9,7"
+;"2002=100";;;"Variation en pourcentage";
+"Préparations alimentaires surgelées";"161,4";"164,4";"163,4";"-0,6";"1,2"
+"Toutes autres préparations alimentaires";"197,4";"207,8";"210,2";"1,2";"6,5"
+;"2013=100";;;"Variation en pourcentage";
+"Beurre de noix (2013=100)";"104,2";"106,8";"107,4";"0,6";"3,1"
+"Croustilles et autres produits de collation n.c.a. (2013=100)";"130,7";"128,1";"131,0";"2,3";"0,2"
+"Toutes autres préparations alimentaires diverses (2013=100)";"160,1";"179,8";"180,2";"0,2";"12,6"
+;"2002=100";;;"Variation en pourcentage";
+"Boissons non alcoolisées";"170,7";"172,2";"173,9";"1,0";"1,9"
+"Aliments achetés au restaurant 5";"195,0";"200,6";"201,2";"0,3";"3,2"
+"Aliments achetés dans un restaurant avec service aux tables 5";"194,3";"199,0";"199,2";"0,1";"2,5"
+"Aliments achetés dans un établissement de restauration rapide et au comptoir de mets à emporter 5";"195,9";"203,7";"204,9";"0,6";"4,6"
+"Aliments achetés de cafétérias et d'autres restaurants 5";"195,3";"200,9";"201,3";"0,2";"3,1"
+
+
+
+
+Renvois:
+1;"L'Indice des prix à la consommation (IPC) n'est pas un indice du coût de la vie. L'objectif d'un indice du coût de la vie est de mesurer les changements nécessaires dans les dépenses qui permettront aux consommateurs de maintenir leur niveau de vie. Le principe de base est que les consommateurs remplaceront normalement un produit par un autre produit équivalent selon les variations du prix relatif de ces produits. Par exemple, si le thé apporte la même satisfaction aux consommateurs que le café, on pourra remplacer le café par le thé lorsque le prix du thé diminue par rapport à celui du café. Ainsi, au produit le plus cher, on peut toujours substituer un produit équivalent moins cher. On pourrait calculer un indice du coût de la vie pour une seule personne, à la condition de connaître tous les goûts et toutes les habitudes de consommation de cette personne. Remplir cette condition pour un grand nombre de personnes n'est évidemment pas possible, et encore moins pour l'ensemble de la population du Canada. Les indices des prix à la consommation qui sont publiés régulièrement sont donc fondés sur le principe du panier fixe et non sur le principe du coût de la vie."
+2;"Ce tableau remplace le tableau 18-10-0008-01 qui est archivé avec la diffusion des données d'avril 2007."
+3;"D'avril 2020 à novembre 2021 et de janvier 2022 à février 2022 , certains sous-indices et leurs composants ont été imputés en utilisant des approches particulières pour un ou plusieurs mois. Les indices touchés sont les suivants : services de garde d’enfants; services d’entretien ménager; transport aérien; services de soins personnels; services de loisirs; voyages organisés; spectacles; utilisation d’installations et de services de loisirs; bière servie dans un établissement avec un permis d’alcool; vin servi dans un établissement avec un permis d’alcool, et spiritueux servis dans un établissement avec un permis d’alcool. Les détails de ces traitements d'avril 2020 à mars 2021 sont fournis dans des suppléments techniques disponibles dans la <a href="https://www150.statcan.gc.ca/n1/fr/catalogue/62F0014M" rel="external noopener noreferrer" target="_blank"> Série analytique des prix (ouvre une nouvelle fenêtre)</a>. À partir d'avril 2021, les détails et les traitements sont disponibles sur demande auprès de la <a href="mailto:statcan.cpddisseminationunit-dpcunitedediffusion.statcan@statcan.gc.ca" rel="external noopener noreferrer" target="_blank">Division des prix à la consommation (ouvre une nouvelle fenêtre)</a>."
+4;"Tous les biens et services inclus dans l'Indice des prix à la consommation (IPC) sont organisés dans une structure hiérarchique ayant comme premier niveau de l'IPC d'ensemble avec les huit composantes principales suivantes : aliments; logement; dépenses courantes, ameublement et équipement du ménage; vêtements et chaussures; transports; soins de santé et soins personnels; loisirs, formation et lecture; et boissons alcoolisées, produits du tabac et cannabis récréatif. Ces composantes principales sont constituées de diverses sous-composantes qui sont à leur tour divisées en d'autres sous-composantes. Les sous-composantes sont décalées afin de montrer les divers niveaux d'agrégation. Par exemple, les huit composantes principales sont décalées d'un espace. NOTE : Certains éléments sont combinés à l'extérieur de la structure principale afin de calculer des agrégations spéciales tels que l'IPC d'ensemble excluant les aliments et l'énergie; énergie; biens; services; ou fruits et légumes frais. Ces agrégations spéciales se situent après les sous-composantes de la composante principale intitulée boissons alcoolisées, produits du tabac et cannabis récréatif."
+5;"Aliments comprend les boissons non alcoolisées."
+6;"Au moment de la diffusion de l'Indice des prix à la consommation (IPC) de mai 2023, la classification de la catégorie des fruits frais a été mise à jour pour fournir aux Canadiens des données plus détaillées. Auparavant inclus dans la catégorie des autres fruits frais, les agrumes (à l’exclusion des oranges), les raisins et les baies (y compris les cerises) sont maintenant publiés. Par conséquent, les données relatives aux autres fruits frais à compter de mai 2023 ne sont plus directement comparables aux périodes antérieures."
+7;"Au moment de la diffusion de l'Indice des prix à la consommation (IPC) de mai 2023, la classification de la catégorie des légumes frais a été mise à jour pour fournir aux Canadiens des données plus détaillées. Auparavant inclus dans la catégorie des autres légumes frais, les carottes, oignons, poivrons, concombre et champignons sont maintenant publiés. Par conséquent, les données relatives aux autres légumes frais à compter de mai 2023 ne sont plus directement comparables aux périodes antérieures."
+
+
+
+"Comment citer le produit : Statistique Canada. Tableau 18-10-0004-03  Indice des prix à la consommation, données mensuelles, variation en pourcentage, non désaisonnalisées, Canada, provinces, Whitehorse et Yellowknife — Aliments"
+https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1810000403
