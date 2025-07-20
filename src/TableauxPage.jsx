@@ -1,81 +1,7 @@
-import  { useEffect, useState } from "react";
-import Papa from "papaparse";
-
-function TableauxPage() {
-  const [donnees, setDonnees] = useState([]);
-
-  useEffect(() => {
-    fetch("/database_ingredients.csv")
-      .then((res) => res.text())
-      .then((text) => {
-        let lignes = text.split("\n");
-        let debutIndex = lignes.findIndex((l) =>
-          l.includes("Produits et groupes")
-        );
-        let finIndex = lignes.findIndex((l) =>
-          l.includes("Renvois")
-        );
-
-        let indexvariationpourcentage = lignes.findIndex((l) =>
-          l.includes("Variation en pourcentage")
-        )
-
-        console.log(indexvariationpourcentage + " et " + debutIndex);
-
-        let contenuSlicetableau = lignes.slice(debutIndex, finIndex);
-
-        // Supprime juste "2002=100" de la ligne des titres
-        contenuSlicetableau = contenuSlicetableau.map((ligne) =>
-          ligne.replace("2002=100", "").trim()
-        );
-        contenuSlicetableau = contenuSlicetableau.map((ligne) =>
-          ligne.replace("(202404=100)", "").trim()
-        );
-        contenuSlicetableau = contenuSlicetableau.map((ligne) =>
-          ligne.replace("(2013=100)", "").trim()
-        );
-        contenuSlicetableau = contenuSlicetableau.map((ligne) =>
-          ligne.replace("(202304=100)", "").trim()
-        );
-
-   
-
-        let contenufiltrétableau = contenuSlicetableau.filter((ligne)=>{
-          if(!ligne.includes("Variation en pourcentage")){
-            return true;
-          }
-
-        }).join("\n");
-            
-       // SI JE VEUX INCLURE LA PREMIER COLONNE VARIATION POURCENTAGE AVANT LES DONNÉES COMME SOUS TITRES DE COLONNES
-        /* 
-         let condition = false;
-         let contenufiltrétableau = contenuSlicetableau.filter((ligne) => {
-            if ((ligne.includes("Variation en pourcentage")) && condition == false) {
-            condition = true;
-            return true
-          }
-          else if ((ligne.includes("Variation en pourcentage")) && condition == true) {
-            return false;
-          }
-          else {
-            return true;
-          }}).join("\n");
-     
-          */
 
 
-        Papa.parse(contenufiltrétableau, {
-          delimiter: ";",
-          header: true,
-          skipEmptyLines: true,
-          complete: (res) => {
-            console.log("Données parsées :", res.data);
-            setDonnees(res.data);
-          },
-        });
-      });
-  }, []);
+function TableauxPage({donnees}) {
+
 
   return (
     <div>
@@ -107,7 +33,7 @@ function TableauxPage() {
       </table>
       </section>
       <section>
-          <h2>1. Tableau des données alimentaires prix aux mois (juin 2024, mai 2025, juin 2025)</h2>
+          <h2>1. Tableau des données alimentaires prix aux 3 mois (juin 2024, mai 2025, juin 2025)</h2>
       <table border="1" cellPadding="2">
         <thead>
           <tr>
